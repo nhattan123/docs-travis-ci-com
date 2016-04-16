@@ -1,9 +1,0 @@
-.bundle
-.DS_Store
-.rvmrc
-_site
-bin
-source/tmp/*
-.sass-cache
-.ruby-version
-tmp/
